@@ -18,13 +18,12 @@
       "iceandfire:sea_serpent_scales_green",
       "iceandfire:sea_serpent_scales_purple",
       "iceandfire:sea_serpent_scales_red",
-      "iceandfire:sea_serpent_scales_teal",
-      "iceandfire:sea_serpent_scale_block_teal",
+      "iceandfire:sea_serpent_scales_teal"
       ]
     }
   },
   "name": {
-    "translate": "material.iafgear.Dragonscales"
+    "translate": "material.iafgear.serpent_scales"
   },
   "stats": {
     "main": {
@@ -36,6 +35,14 @@
       "magic_armor": 34.0,
       "rarity": 80.0,
       "silentgems:chargeability": 1.5
+    ,
+    "fletching": {
+      "rarity": {
+        "add": 12 
+      },
+      "ranged_damage": {
+        "mul2": 1.5
+      }
     }
   }
 }
