@@ -1,0 +1,11 @@
+{
+  "parent": "silentgear:serpent_scales",
+  "crafting_items": {
+    "main": {
+      "item": "iceandfire:sea_serpent_scales_blue"
+    }
+  },
+  "name": {
+    "translate": "material.iafgear.serpent_scales.blue"
+  }
+}
