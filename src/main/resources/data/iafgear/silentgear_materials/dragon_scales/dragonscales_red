@@ -1,0 +1,11 @@
+{
+  "parent": "silentgear:dragon_scales",
+  "crafting_items": {
+    "main": {
+      "item": "iceandfire:dragonscales_red"
+    }
+  },
+  "name": {
+    "translate": "material.iafgear.dragonscales.red"
+  }
+}
