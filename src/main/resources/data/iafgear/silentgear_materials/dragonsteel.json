@@ -1,0 +1,41 @@
+{
+  "availability": {
+    "tier": 4,
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "type": "silentgear:exclusion",
+      "value": {
+        "tag": "forge:ingots/dragonsteel_fire",
+        "tag": "forge:ingots/dragonsteel_ice",
+        "tag": "forge:ingots/dragonsteel_lightning",
+        "tag": "forge:storage_blocks/dragonsteel_fire",
+        "tag": "forge:storage_blocks/dragonsteel_ice",
+        "tag": "forge:storage_blocks/dragonsteel_lightning"
+      },
+      "exclusions": [
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_lightning_ingot"
+      ]
+    }
+  },
+  "name": {
+    "translate": "material.iafgear.Dragonscales"
+  },
+  "stats": {
+    "main": {
+      "durability": 2000.0,
+      "armor_durability": 36.0,
+      "enchantability": 27.0,
+      "armor": 34.0,
+      "armor_toughness": 24.0,
+      "magic_armor": 34.0,
+      "rarity": 100.0,
+      "silentgems:chargeability": 5.0
+    }
+  }
+}
